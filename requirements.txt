@@ -1,0 +1,5 @@
+requests==2.18.2
+lxml==3.5.0
+bottle==0.12.13
+sqlobject==3.3.0
+python_twitter==3.3
